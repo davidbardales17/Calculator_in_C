@@ -1,1 +1,1 @@
-# learningC
+Basic calculator written in C.
